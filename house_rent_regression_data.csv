@@ -1,0 +1,451 @@
+bhk,size_sqft,floor_level,area_type,city,furnishing_status,tenant_preferred,bathroom,rent
+1,589,7,Carpet Area,Cairo,Furnished,Family,4,3000.0
+4,2312,4,Built Area,New Cairo,Semi-Furnished,Family,5,19945.56
+2,695,6,Carpet Area,New Cairo,Semi-Furnished,Bachelors/Family,4,9562.4
+3,2948,7,Carpet Area,New Cairo,Semi-Furnished,Family,4,21920.28
+2,576,6,Built Area,Sheikh Zayed,Unfurnished,Bachelors,3,3489.73
+1,1199,13,Super Area,Cairo,Semi-Furnished,Family,3,9174.07
+5,1205,3,Carpet Area,Giza,Unfurnished,Bachelors/Family,5,21227.07
+4,3307,4,Super Area,Alexandria,Semi-Furnished,Bachelors/Family,2,12987.18
+3,2142,12,Built Area,Sheikh Zayed,Unfurnished,Bachelors/Family,1,19172.48
+4,614,13,Carpet Area,Alexandria,Unfurnished,Bachelors/Family,1,13863.82
+4,2279,9,Super Area,Giza,Furnished,Family,5,26927.69
+4,3100,5,Super Area,New Cairo,Semi-Furnished,Bachelors,2,18332.98
+2,996,13,Carpet Area,Giza,Unfurnished,Bachelors,2,10698.48
+2,2117,13,Built Area,Alexandria,Furnished,Bachelors,2,7938.38
+5,1755,11,Super Area,Giza,Semi-Furnished,Family,3,31423.79
+1,527,15,Built Area,Cairo,Furnished,Family,5,7727.87
+3,1692,10,Carpet Area,Giza,Unfurnished,Family,1,14445.23
+2,2998,5,Super Area,Cairo,Furnished,Bachelors,2,5629.16
+4,1958,12,Super Area,Giza,Furnished,Family,5,26783.19
+1,2177,8,Super Area,Cairo,Semi-Furnished,Family,1,3000.0
+3,1018,9,Built Area,Cairo,Unfurnished,Bachelors/Family,3,8681.32
+3,2795,13,Super Area,Giza,Semi-Furnished,Bachelors/Family,4,26446.43
+3,541,13,Super Area,Sheikh Zayed,Semi-Furnished,Bachelors,1,4167.59
+3,3239,1,Carpet Area,New Cairo,Furnished,Bachelors/Family,1,3000.0
+5,644,5,Super Area,New Cairo,Unfurnished,Bachelors/Family,1,10653.95
+3,3150,12,Built Area,New Cairo,Semi-Furnished,Bachelors/Family,4,26050.99
+1,1713,2,Carpet Area,Cairo,Unfurnished,Family,2,3000.0
+2,2114,13,Carpet Area,New Cairo,Semi-Furnished,Bachelors/Family,4,20260.25
+1,1535,1,Super Area,Cairo,Furnished,Bachelors/Family,1,3000.0
+4,2661,5,Carpet Area,Sheikh Zayed,Semi-Furnished,Bachelors/Family,3,20039.53
+5,2309,3,Super Area,Giza,Semi-Furnished,Family,1,14301.28
+5,2647,4,Carpet Area,Giza,Semi-Furnished,Bachelors,3,19191.34
+4,2852,4,Built Area,Cairo,Unfurnished,Family,5,21593.96
+1,820,2,Super Area,Cairo,Furnished,Family,3,3000.0
+1,406,15,Built Area,Sheikh Zayed,Unfurnished,Bachelors/Family,1,8582.18
+4,1948,11,Super Area,New Cairo,Semi-Furnished,Bachelors,4,25422.13
+3,3039,3,Built Area,Sheikh Zayed,Furnished,Bachelors/Family,1,5721.55
+3,2733,2,Built Area,Giza,Unfurnished,Bachelors/Family,1,5242.87
+2,1070,6,Carpet Area,Giza,Semi-Furnished,Bachelors,5,6660.97
+1,2836,14,Super Area,New Cairo,Furnished,Bachelors,2,13598.4
+1,815,15,Carpet Area,Giza,Furnished,Family,1,5853.26
+4,3231,0,Built Area,Cairo,Semi-Furnished,Bachelors,5,10409.16
+4,1406,15,Super Area,Giza,Furnished,Family,4,29172.45
+3,2136,14,Built Area,Alexandria,Furnished,Family,5,21404.62
+1,3462,15,Built Area,New Cairo,Unfurnished,Bachelors/Family,5,27719.81
+1,827,5,Built Area,New Cairo,Furnished,Bachelors/Family,3,3000.0
+5,3452,3,Built Area,New Cairo,Unfurnished,Bachelors/Family,2,19672.92
+2,733,15,Carpet Area,Alexandria,Unfurnished,Bachelors,2,7224.55
+2,2719,0,Built Area,Sheikh Zayed,Unfurnished,Bachelors,4,4931.87
+3,2766,0,Carpet Area,Cairo,Unfurnished,Family,5,16014.25
+1,926,4,Built Area,New Cairo,Furnished,Family,4,3000.0
+5,3207,13,Super Area,Giza,Furnished,Family,4,35897.19
+1,1595,4,Built Area,Cairo,Unfurnished,Bachelors,2,3000.0
+4,2153,9,Built Area,Giza,Furnished,Family,2,12498.33
+3,2072,6,Super Area,Cairo,Unfurnished,Family,2,14967.36
+2,2768,12,Super Area,Cairo,Unfurnished,Bachelors,1,11891.79
+1,3186,11,Built Area,Giza,Unfurnished,Bachelors/Family,5,22830.0
+3,1955,3,Built Area,Giza,Semi-Furnished,Bachelors,4,8115.66
+2,2428,13,Carpet Area,Cairo,Furnished,Family,5,20535.96
+1,2054,8,Super Area,New Cairo,Furnished,Bachelors/Family,4,8969.21
+5,853,3,Super Area,Giza,Unfurnished,Bachelors,4,17081.42
+3,1145,6,Carpet Area,Alexandria,Furnished,Bachelors/Family,4,7384.72
+1,2303,4,Built Area,Alexandria,Unfurnished,Bachelors/Family,4,3000.0
+2,1328,14,Built Area,Cairo,Furnished,Family,3,8908.78
+2,1247,15,Super Area,Sheikh Zayed,Unfurnished,Bachelors,3,19817.35
+5,1267,4,Carpet Area,Cairo,Unfurnished,Family,1,12809.15
+3,1173,5,Built Area,Cairo,Semi-Furnished,Bachelors,2,3000.0
+3,2530,7,Super Area,New Cairo,Unfurnished,Bachelors,4,20845.68
+1,942,14,Built Area,New Cairo,Semi-Furnished,Bachelors,5,12421.77
+2,721,4,Built Area,Sheikh Zayed,Furnished,Bachelors/Family,3,3000.0
+2,1185,14,Built Area,Sheikh Zayed,Furnished,Bachelors/Family,2,11960.45
+5,939,2,Super Area,Sheikh Zayed,Semi-Furnished,Family,1,14286.0
+5,2699,5,Carpet Area,Sheikh Zayed,Furnished,Bachelors,2,13511.56
+3,3283,13,Carpet Area,Sheikh Zayed,Semi-Furnished,Bachelors,4,29019.81
+2,2188,11,Built Area,Cairo,Furnished,Bachelors/Family,2,7596.66
+1,848,13,Carpet Area,Cairo,Semi-Furnished,Bachelors,4,6160.36
+4,889,1,Built Area,Alexandria,Semi-Furnished,Family,3,3024.57
+1,2305,11,Super Area,Alexandria,Unfurnished,Bachelors,3,10330.22
+5,863,11,Super Area,Giza,Furnished,Bachelors,4,19910.58
+1,713,7,Super Area,Cairo,Unfurnished,Bachelors/Family,5,4717.71
+2,2355,7,Built Area,Sheikh Zayed,Semi-Furnished,Bachelors,3,5964.26
+3,784,14,Carpet Area,Giza,Unfurnished,Family,5,23684.28
+4,694,2,Super Area,New Cairo,Semi-Furnished,Family,4,10086.25
+3,1638,11,Built Area,Cairo,Furnished,Family,4,12415.34
+4,3433,7,Carpet Area,Alexandria,Furnished,Family,3,20879.95
+4,1161,8,Carpet Area,Cairo,Furnished,Bachelors/Family,5,16597.52
+2,3216,4,Carpet Area,Cairo,Semi-Furnished,Bachelors,4,6281.57
+2,1498,4,Built Area,Cairo,Unfurnished,Bachelors/Family,3,3000.0
+5,2791,5,Built Area,Cairo,Furnished,Family,4,21784.63
+5,2137,6,Built Area,New Cairo,Semi-Furnished,Bachelors,2,16481.2
+4,2589,2,Super Area,Alexandria,Unfurnished,Bachelors/Family,2,12200.21
+5,3165,4,Built Area,Cairo,Semi-Furnished,Bachelors,3,17324.27
+2,1622,0,Super Area,New Cairo,Semi-Furnished,Family,4,5841.94
+5,2342,10,Super Area,Giza,Furnished,Family,3,27332.13
+4,2853,9,Super Area,Cairo,Semi-Furnished,Bachelors,1,12588.06
+3,627,4,Built Area,New Cairo,Semi-Furnished,Bachelors,3,3000.0
+1,810,3,Super Area,Sheikh Zayed,Unfurnished,Family,3,5600.15
+5,3399,0,Built Area,Giza,Furnished,Bachelors/Family,2,6692.64
+2,3345,6,Built Area,Alexandria,Semi-Furnished,Family,2,8521.54
+3,1090,14,Super Area,Cairo,Semi-Furnished,Bachelors,4,19949.76
+2,1277,0,Super Area,Cairo,Unfurnished,Bachelors/Family,3,3337.08
+5,1186,12,Super Area,New Cairo,Semi-Furnished,Family,3,33506.03
+4,2509,7,Built Area,Alexandria,Semi-Furnished,Bachelors,4,14190.31
+1,1750,15,Built Area,Sheikh Zayed,Semi-Furnished,Bachelors,5,16075.69
+1,2139,13,Super Area,Giza,Semi-Furnished,Bachelors,4,11382.14
+3,2386,9,Super Area,Alexandria,Semi-Furnished,Bachelors/Family,2,14178.62
+1,1278,11,Carpet Area,Cairo,Unfurnished,Bachelors/Family,2,6847.09
+4,2007,1,Super Area,New Cairo,Semi-Furnished,Bachelors/Family,3,10169.06
+2,2013,9,Carpet Area,Sheikh Zayed,Semi-Furnished,Bachelors/Family,2,10947.13
+4,2803,12,Carpet Area,New Cairo,Semi-Furnished,Bachelors,4,26293.34
+3,470,11,Built Area,Giza,Semi-Furnished,Bachelors,3,8550.43
+3,2710,4,Built Area,Alexandria,Furnished,Bachelors/Family,4,8482.37
+1,705,12,Carpet Area,New Cairo,Furnished,Bachelors/Family,4,6546.9
+4,3005,5,Carpet Area,New Cairo,Furnished,Bachelors,3,14724.09
+2,1161,8,Super Area,Cairo,Furnished,Family,5,13595.58
+4,987,14,Carpet Area,New Cairo,Unfurnished,Family,2,24026.5
+2,2521,13,Super Area,Sheikh Zayed,Furnished,Bachelors,1,12324.29
+2,2589,6,Built Area,Alexandria,Unfurnished,Bachelors/Family,1,3889.03
+4,2008,5,Super Area,Giza,Furnished,Bachelors/Family,1,8963.41
+5,501,4,Built Area,New Cairo,Unfurnished,Bachelors,2,5932.04
+4,2029,5,Carpet Area,Sheikh Zayed,Furnished,Family,5,24115.5
+2,2004,14,Carpet Area,Giza,Semi-Furnished,Bachelors,4,14728.15
+3,592,13,Carpet Area,Sheikh Zayed,Furnished,Bachelors,3,12569.79
+3,3400,10,Super Area,New Cairo,Furnished,Bachelors,5,25108.2
+1,1485,3,Built Area,New Cairo,Furnished,Bachelors/Family,1,3000.0
+3,2857,0,Built Area,Alexandria,Semi-Furnished,Bachelors/Family,2,3000.0
+5,699,14,Built Area,Cairo,Unfurnished,Bachelors/Family,2,14191.16
+2,853,11,Built Area,Sheikh Zayed,Unfurnished,Family,3,12939.75
+4,3021,8,Built Area,Cairo,Semi-Furnished,Bachelors,4,18189.19
+4,1018,15,Super Area,Cairo,Furnished,Bachelors,5,22928.18
+5,1036,10,Built Area,Giza,Furnished,Family,5,23681.96
+3,2748,4,Carpet Area,Giza,Furnished,Bachelors/Family,5,16078.2
+2,1178,7,Built Area,Sheikh Zayed,Unfurnished,Bachelors,4,9767.19
+3,1879,6,Carpet Area,Cairo,Unfurnished,Family,4,14956.02
+1,3436,7,Super Area,Alexandria,Semi-Furnished,Bachelors/Family,4,10659.93
+3,2649,0,Super Area,Cairo,Semi-Furnished,Bachelors/Family,3,10847.05
+1,3121,8,Carpet Area,Giza,Unfurnished,Bachelors,2,7350.62
+4,2749,0,Built Area,Cairo,Furnished,Bachelors/Family,1,3000.0
+2,2444,2,Super Area,New Cairo,Furnished,Family,4,11303.99
+1,2047,7,Super Area,New Cairo,Furnished,Bachelors/Family,2,6548.1
+3,736,11,Super Area,Alexandria,Furnished,Bachelors,4,8316.28
+3,2479,10,Built Area,Sheikh Zayed,Semi-Furnished,Family,1,14710.92
+4,2394,0,Carpet Area,Cairo,Semi-Furnished,Bachelors/Family,4,7340.79
+5,2407,13,Carpet Area,New Cairo,Unfurnished,Bachelors/Family,2,29104.53
+5,2182,0,Built Area,Sheikh Zayed,Semi-Furnished,Bachelors/Family,3,14278.6
+3,3220,5,Super Area,New Cairo,Furnished,Family,1,12522.66
+5,1471,4,Built Area,Sheikh Zayed,Unfurnished,Bachelors/Family,2,18807.79
+2,2431,10,Built Area,Sheikh Zayed,Semi-Furnished,Bachelors,5,16806.7
+5,1673,5,Carpet Area,New Cairo,Semi-Furnished,Family,5,24626.5
+2,1649,2,Built Area,Giza,Semi-Furnished,Family,5,5724.06
+3,1695,9,Built Area,Sheikh Zayed,Semi-Furnished,Bachelors/Family,3,11507.75
+3,3112,11,Super Area,Cairo,Semi-Furnished,Family,4,26178.81
+3,727,9,Super Area,New Cairo,Furnished,Bachelors,4,12498.25
+4,1196,5,Carpet Area,Giza,Furnished,Family,4,13265.19
+5,1603,1,Super Area,New Cairo,Furnished,Bachelors,3,11292.15
+1,3261,7,Built Area,Alexandria,Semi-Furnished,Bachelors/Family,5,7755.66
+1,1064,14,Built Area,Cairo,Unfurnished,Family,4,10586.74
+3,3193,11,Built Area,Alexandria,Furnished,Bachelors,3,11744.26
+5,3494,5,Carpet Area,Sheikh Zayed,Furnished,Bachelors/Family,3,23777.88
+2,3377,12,Super Area,Sheikh Zayed,Semi-Furnished,Bachelors,2,19210.0
+1,1362,15,Built Area,Alexandria,Unfurnished,Family,4,14377.69
+3,2029,12,Super Area,Alexandria,Furnished,Family,5,24077.42
+1,1793,3,Super Area,Sheikh Zayed,Furnished,Bachelors,1,3000.0
+1,1668,3,Super Area,Giza,Unfurnished,Bachelors/Family,3,5372.85
+1,1583,13,Super Area,Cairo,Semi-Furnished,Bachelors/Family,2,11017.79
+3,772,10,Carpet Area,New Cairo,Unfurnished,Bachelors/Family,1,11728.33
+3,684,6,Carpet Area,Alexandria,Semi-Furnished,Bachelors/Family,3,4914.53
+4,2968,13,Carpet Area,Cairo,Furnished,Bachelors,2,22394.92
+4,3144,15,Built Area,New Cairo,Unfurnished,Family,4,37025.1
+4,1206,2,Built Area,New Cairo,Unfurnished,Bachelors,2,3000.0
+1,1046,10,Built Area,Alexandria,Furnished,Family,3,3000.0
+5,2004,2,Carpet Area,Giza,Furnished,Family,4,16127.29
+3,2583,5,Super Area,Giza,Semi-Furnished,Bachelors,5,18076.09
+4,495,8,Carpet Area,Cairo,Furnished,Bachelors,2,6104.65
+5,673,0,Built Area,Cairo,Furnished,Bachelors/Family,1,3000.0
+4,3325,4,Built Area,Sheikh Zayed,Unfurnished,Family,4,26172.15
+4,3297,0,Super Area,Giza,Semi-Furnished,Bachelors/Family,4,19496.39
+5,1600,0,Carpet Area,Cairo,Furnished,Bachelors/Family,5,12916.44
+4,2172,2,Super Area,Sheikh Zayed,Unfurnished,Bachelors,2,14535.75
+1,1183,2,Carpet Area,New Cairo,Furnished,Bachelors/Family,1,3000.0
+1,1700,3,Built Area,Cairo,Furnished,Bachelors/Family,5,3000.0
+1,531,2,Super Area,Sheikh Zayed,Furnished,Bachelors/Family,2,3000.0
+2,1790,5,Super Area,Giza,Furnished,Bachelors,1,3000.0
+4,2820,11,Carpet Area,New Cairo,Semi-Furnished,Bachelors/Family,1,19798.27
+2,1549,14,Carpet Area,Cairo,Unfurnished,Bachelors/Family,3,21354.92
+3,2210,3,Carpet Area,Giza,Unfurnished,Bachelors,1,3000.0
+5,2430,7,Built Area,New Cairo,Furnished,Bachelors,2,13472.51
+3,1207,0,Carpet Area,Alexandria,Unfurnished,Bachelors,5,3000.0
+2,1143,7,Built Area,Giza,Furnished,Family,5,8974.62
+1,450,10,Carpet Area,Alexandria,Unfurnished,Bachelors,3,3000.0
+4,1581,0,Carpet Area,Cairo,Semi-Furnished,Family,2,7951.57
+4,455,10,Built Area,Sheikh Zayed,Semi-Furnished,Bachelors,1,10117.93
+1,1143,0,Carpet Area,Cairo,Unfurnished,Bachelors,3,3000.0
+4,2875,6,Built Area,Giza,Furnished,Bachelors,4,13209.26
+5,842,0,Built Area,Alexandria,Furnished,Family,2,3000.0
+5,2334,8,Carpet Area,Alexandria,Furnished,Bachelors/Family,3,18164.32
+5,2773,13,Carpet Area,New Cairo,Furnished,Bachelors,5,33082.23
+3,3087,14,Super Area,Cairo,Semi-Furnished,Family,3,27177.17
+1,2061,7,Carpet Area,Cairo,Furnished,Bachelors,4,3000.0
+5,3276,12,Super Area,Giza,Furnished,Bachelors/Family,2,30051.97
+2,479,14,Carpet Area,Alexandria,Furnished,Family,3,10168.55
+5,2921,0,Built Area,Giza,Furnished,Bachelors,1,3573.08
+3,776,1,Built Area,Giza,Semi-Furnished,Bachelors,2,3000.0
+2,3366,1,Super Area,Alexandria,Unfurnished,Bachelors,3,6479.71
+1,2780,1,Carpet Area,Giza,Unfurnished,Bachelors/Family,3,3938.3
+1,840,5,Super Area,Alexandria,Furnished,Family,2,3000.0
+5,525,3,Carpet Area,Giza,Furnished,Bachelors,5,9832.58
+2,2117,7,Carpet Area,Sheikh Zayed,Unfurnished,Bachelors,1,5912.33
+2,618,0,Built Area,Giza,Semi-Furnished,Family,2,3000.0
+5,1347,14,Super Area,Giza,Semi-Furnished,Bachelors/Family,1,22389.81
+5,677,9,Built Area,Sheikh Zayed,Semi-Furnished,Bachelors/Family,1,11854.33
+4,994,13,Built Area,Cairo,Semi-Furnished,Bachelors/Family,2,15975.13
+4,1334,3,Built Area,Alexandria,Semi-Furnished,Bachelors/Family,3,4005.53
+5,2418,15,Super Area,New Cairo,Semi-Furnished,Bachelors/Family,5,35110.05
+3,540,9,Carpet Area,Sheikh Zayed,Semi-Furnished,Bachelors,1,7323.93
+4,3293,10,Carpet Area,Cairo,Semi-Furnished,Bachelors,1,15185.32
+5,3455,4,Super Area,Giza,Semi-Furnished,Bachelors,3,22783.34
+2,2030,8,Carpet Area,Cairo,Furnished,Family,2,8518.18
+4,1276,4,Super Area,Sheikh Zayed,Semi-Furnished,Bachelors/Family,5,20185.09
+3,2129,12,Super Area,Giza,Furnished,Family,1,12128.31
+1,509,10,Carpet Area,Cairo,Unfurnished,Bachelors/Family,1,3000.0
+2,1475,2,Built Area,New Cairo,Furnished,Bachelors/Family,2,3000.0
+3,3060,10,Super Area,Alexandria,Unfurnished,Family,3,23542.7
+3,3160,3,Super Area,Alexandria,Furnished,Bachelors,4,11702.23
+3,2393,9,Super Area,Sheikh Zayed,Unfurnished,Family,3,26086.47
+2,1622,6,Super Area,Giza,Furnished,Bachelors,1,4654.88
+3,1195,0,Carpet Area,Giza,Furnished,Bachelors/Family,1,3000.0
+1,2429,10,Carpet Area,Alexandria,Unfurnished,Bachelors,5,12167.67
+4,1128,5,Super Area,Cairo,Semi-Furnished,Bachelors/Family,3,10949.69
+2,2952,7,Built Area,Giza,Semi-Furnished,Bachelors/Family,4,12643.85
+3,1937,0,Carpet Area,New Cairo,Semi-Furnished,Bachelors,5,11512.58
+5,1440,7,Built Area,New Cairo,Semi-Furnished,Bachelors/Family,4,23309.47
+4,714,6,Built Area,Giza,Semi-Furnished,Bachelors,5,11070.12
+2,476,0,Super Area,Giza,Furnished,Family,3,3000.0
+5,3425,8,Carpet Area,Alexandria,Semi-Furnished,Bachelors/Family,1,19338.81
+5,3346,10,Super Area,Sheikh Zayed,Furnished,Bachelors/Family,4,30895.45
+3,2040,2,Super Area,Alexandria,Unfurnished,Family,3,10939.37
+2,3495,1,Built Area,Sheikh Zayed,Semi-Furnished,Bachelors/Family,4,8742.85
+3,1111,6,Built Area,New Cairo,Semi-Furnished,Family,3,9555.27
+1,1937,10,Built Area,Sheikh Zayed,Semi-Furnished,Family,5,13795.21
+5,2267,2,Super Area,Alexandria,Semi-Furnished,Bachelors/Family,3,15095.68
+1,1253,0,Super Area,Giza,Furnished,Family,5,3000.0
+3,1561,9,Super Area,Sheikh Zayed,Furnished,Family,1,14902.6
+4,1997,12,Super Area,Alexandria,Furnished,Family,5,26807.53
+5,3156,2,Super Area,New Cairo,Unfurnished,Bachelors/Family,2,25079.61
+4,2312,5,Super Area,Sheikh Zayed,Furnished,Family,1,19676.75
+2,664,2,Super Area,New Cairo,Semi-Furnished,Bachelors,3,3000.0
+5,732,4,Super Area,New Cairo,Unfurnished,Bachelors,3,17773.22
+1,2635,8,Carpet Area,Cairo,Unfurnished,Family,2,13434.77
+4,1486,6,Carpet Area,Sheikh Zayed,Semi-Furnished,Bachelors,3,15835.28
+2,1219,1,Carpet Area,Alexandria,Semi-Furnished,Bachelors/Family,1,3000.0
+5,1702,0,Carpet Area,Sheikh Zayed,Semi-Furnished,Family,1,7553.21
+2,1965,6,Super Area,Sheikh Zayed,Semi-Furnished,Bachelors/Family,5,15783.23
+1,1594,3,Super Area,New Cairo,Furnished,Bachelors,4,3000.0
+5,1926,10,Built Area,New Cairo,Unfurnished,Bachelors,3,25313.55
+2,698,6,Built Area,New Cairo,Semi-Furnished,Bachelors,2,3000.0
+3,2648,5,Carpet Area,New Cairo,Furnished,Bachelors,1,4503.55
+5,1558,6,Built Area,Alexandria,Semi-Furnished,Bachelors/Family,1,9685.1
+5,671,3,Carpet Area,Giza,Furnished,Family,1,4666.72
+5,934,2,Super Area,Cairo,Semi-Furnished,Bachelors/Family,4,14383.92
+5,2478,11,Super Area,New Cairo,Semi-Furnished,Family,4,34694.21
+3,1544,4,Built Area,New Cairo,Semi-Furnished,Bachelors,3,6205.75
+1,468,2,Super Area,Cairo,Furnished,Bachelors,2,3000.0
+3,3330,13,Super Area,New Cairo,Semi-Furnished,Bachelors,4,28898.9
+3,3408,2,Carpet Area,Giza,Furnished,Bachelors,5,12165.77
+2,1226,3,Built Area,Sheikh Zayed,Furnished,Bachelors/Family,4,3000.0
+4,3371,7,Super Area,Cairo,Unfurnished,Family,1,22038.15
+4,1569,1,Built Area,Alexandria,Furnished,Family,2,3000.0
+2,1383,3,Super Area,Cairo,Furnished,Bachelors,3,3000.0
+3,880,10,Carpet Area,Giza,Furnished,Bachelors/Family,4,11321.38
+2,2740,15,Super Area,Alexandria,Furnished,Bachelors,1,11032.29
+5,2415,2,Built Area,Sheikh Zayed,Furnished,Family,5,20967.28
+2,1852,6,Built Area,New Cairo,Unfurnished,Family,5,13896.13
+2,2533,15,Carpet Area,Cairo,Semi-Furnished,Bachelors/Family,3,16155.39
+5,1439,1,Super Area,Alexandria,Unfurnished,Family,3,16029.94
+4,3175,0,Carpet Area,Cairo,Unfurnished,Bachelors/Family,4,17586.94
+5,1027,9,Built Area,Sheikh Zayed,Semi-Furnished,Bachelors,3,16044.17
+1,517,0,Carpet Area,Cairo,Furnished,Bachelors,1,3000.0
+2,2717,5,Super Area,Alexandria,Semi-Furnished,Bachelors/Family,1,5494.39
+2,3426,2,Super Area,Giza,Furnished,Bachelors,1,3000.0
+4,3302,6,Carpet Area,Alexandria,Semi-Furnished,Bachelors/Family,4,19788.04
+3,561,7,Built Area,Cairo,Unfurnished,Bachelors,4,7268.03
+5,3147,4,Built Area,Sheikh Zayed,Furnished,Bachelors,3,17666.43
+3,2076,4,Carpet Area,New Cairo,Unfurnished,Family,4,18890.57
+1,566,11,Super Area,New Cairo,Furnished,Family,1,3000.0
+5,699,1,Super Area,Sheikh Zayed,Semi-Furnished,Bachelors/Family,2,15083.6
+1,2475,7,Super Area,Cairo,Semi-Furnished,Bachelors,1,3000.0
+1,961,9,Super Area,Sheikh Zayed,Semi-Furnished,Bachelors,2,5450.13
+1,3330,15,Built Area,Cairo,Semi-Furnished,Bachelors,3,11519.55
+5,2603,12,Super Area,Alexandria,Semi-Furnished,Family,5,33943.17
+5,1747,0,Carpet Area,Giza,Unfurnished,Bachelors/Family,4,16493.47
+4,1544,9,Carpet Area,Cairo,Unfurnished,Bachelors/Family,4,16650.38
+2,3099,8,Carpet Area,New Cairo,Furnished,Bachelors/Family,1,6301.85
+3,1951,0,Carpet Area,New Cairo,Unfurnished,Bachelors,1,3000.0
+3,3268,0,Super Area,Giza,Furnished,Bachelors/Family,2,3836.95
+1,960,0,Built Area,Cairo,Furnished,Family,4,3000.0
+5,1587,6,Super Area,Giza,Unfurnished,Family,3,24030.6
+5,2089,3,Built Area,Alexandria,Unfurnished,Bachelors/Family,1,11500.64
+1,711,11,Super Area,Giza,Furnished,Bachelors,4,3000.0
+2,2823,6,Built Area,Alexandria,Unfurnished,Family,5,15193.71
+3,1769,4,Carpet Area,New Cairo,Unfurnished,Family,2,9986.8
+4,2597,15,Carpet Area,Alexandria,Unfurnished,Bachelors,1,16904.0
+2,2311,11,Built Area,Cairo,Semi-Furnished,Bachelors,1,5286.06
+5,3032,15,Built Area,Cairo,Semi-Furnished,Bachelors/Family,3,30754.6
+1,980,13,Built Area,Cairo,Furnished,Family,1,3000.0
+3,1376,6,Carpet Area,Cairo,Unfurnished,Family,4,12031.57
+1,576,9,Carpet Area,Sheikh Zayed,Furnished,Bachelors/Family,4,5219.9
+5,2801,13,Super Area,Alexandria,Unfurnished,Bachelors/Family,4,35098.81
+1,913,6,Built Area,Cairo,Semi-Furnished,Family,5,5332.74
+3,2756,3,Built Area,Giza,Unfurnished,Family,5,18730.59
+1,518,1,Built Area,Giza,Unfurnished,Bachelors,1,3000.0
+3,1942,7,Carpet Area,Sheikh Zayed,Unfurnished,Bachelors,5,21807.01
+1,1166,1,Built Area,Alexandria,Semi-Furnished,Family,5,3000.0
+1,3443,15,Built Area,Alexandria,Semi-Furnished,Family,3,17577.02
+3,1372,8,Carpet Area,Alexandria,Semi-Furnished,Bachelors,5,13301.11
+1,1315,4,Built Area,Sheikh Zayed,Furnished,Bachelors/Family,2,3000.0
+2,2925,8,Super Area,Alexandria,Unfurnished,Bachelors/Family,2,14996.25
+4,1837,14,Carpet Area,Alexandria,Semi-Furnished,Family,2,22863.62
+2,986,8,Carpet Area,Cairo,Furnished,Family,1,3000.0
+4,750,13,Carpet Area,Alexandria,Semi-Furnished,Bachelors,4,13729.61
+2,1929,7,Super Area,Cairo,Unfurnished,Family,3,13872.61
+4,2642,7,Carpet Area,Cairo,Furnished,Bachelors/Family,1,7930.03
+1,1873,3,Carpet Area,Alexandria,Semi-Furnished,Bachelors,4,3000.0
+3,895,15,Carpet Area,Giza,Semi-Furnished,Bachelors,3,15715.99
+3,2962,13,Carpet Area,New Cairo,Furnished,Bachelors/Family,3,24465.62
+5,3143,3,Super Area,Giza,Furnished,Bachelors/Family,3,20361.8
+4,2270,13,Built Area,Alexandria,Furnished,Bachelors,2,14537.93
+5,672,1,Built Area,Alexandria,Furnished,Family,2,3000.0
+5,3327,3,Carpet Area,Giza,Furnished,Bachelors/Family,2,18587.5
+4,2499,15,Super Area,Alexandria,Semi-Furnished,Bachelors,3,26384.25
+3,662,3,Carpet Area,Cairo,Furnished,Family,3,3000.0
+4,2580,5,Built Area,Sheikh Zayed,Furnished,Family,2,10470.5
+1,3441,2,Built Area,Alexandria,Unfurnished,Bachelors,3,3000.0
+5,2757,1,Super Area,Alexandria,Semi-Furnished,Bachelors/Family,2,16597.31
+5,1996,14,Built Area,Giza,Unfurnished,Family,2,28187.65
+4,2463,7,Carpet Area,Cairo,Semi-Furnished,Bachelors/Family,2,14344.02
+5,2164,1,Super Area,Giza,Semi-Furnished,Bachelors,4,14964.78
+3,594,7,Built Area,Giza,Semi-Furnished,Bachelors/Family,3,3000.0
+5,2186,6,Carpet Area,Alexandria,Furnished,Family,1,11139.07
+4,1866,2,Super Area,Cairo,Unfurnished,Bachelors,2,12029.26
+3,2750,5,Carpet Area,Alexandria,Semi-Furnished,Family,1,9946.19
+3,1471,5,Built Area,Alexandria,Semi-Furnished,Family,4,6547.42
+5,2170,9,Carpet Area,Alexandria,Semi-Furnished,Bachelors,3,16959.95
+4,1544,13,Super Area,Alexandria,Unfurnished,Bachelors,2,23249.38
+5,1922,4,Carpet Area,Sheikh Zayed,Semi-Furnished,Bachelors/Family,2,14642.28
+1,1231,12,Built Area,New Cairo,Unfurnished,Bachelors,2,3511.85
+1,961,7,Super Area,Cairo,Unfurnished,Bachelors/Family,1,3000.0
+3,440,14,Super Area,Sheikh Zayed,Furnished,Bachelors,4,15124.39
+5,1879,10,Built Area,New Cairo,Semi-Furnished,Family,3,23428.89
+1,2981,15,Carpet Area,New Cairo,Semi-Furnished,Bachelors/Family,4,20150.38
+2,770,11,Carpet Area,New Cairo,Unfurnished,Bachelors,2,6347.86
+1,1605,15,Built Area,Sheikh Zayed,Unfurnished,Bachelors/Family,4,20566.23
+5,2964,4,Super Area,Cairo,Furnished,Bachelors/Family,1,11566.43
+5,1056,15,Built Area,Giza,Semi-Furnished,Bachelors/Family,5,28240.32
+1,989,6,Super Area,New Cairo,Unfurnished,Family,5,11145.54
+5,630,15,Super Area,Giza,Semi-Furnished,Bachelors,3,24135.5
+5,1208,5,Carpet Area,Giza,Semi-Furnished,Bachelors,3,10974.93
+2,1771,10,Built Area,Alexandria,Semi-Furnished,Bachelors/Family,4,9063.91
+3,878,14,Super Area,Giza,Unfurnished,Bachelors,3,19605.68
+5,1632,6,Carpet Area,Alexandria,Semi-Furnished,Family,1,15469.83
+4,3122,12,Built Area,Cairo,Unfurnished,Bachelors/Family,2,21220.68
+3,2725,8,Built Area,Cairo,Furnished,Family,2,13610.75
+3,2172,2,Super Area,Alexandria,Furnished,Family,4,7515.36
+4,2500,9,Super Area,Cairo,Unfurnished,Bachelors,2,18449.43
+1,2284,6,Super Area,New Cairo,Semi-Furnished,Bachelors,4,11947.37
+2,1433,12,Built Area,Cairo,Furnished,Bachelors/Family,3,12678.27
+5,2162,9,Super Area,Alexandria,Furnished,Family,3,25864.84
+1,1147,2,Built Area,New Cairo,Unfurnished,Bachelors,1,3000.0
+4,863,12,Carpet Area,Giza,Unfurnished,Bachelors/Family,2,19159.58
+2,1153,1,Built Area,Giza,Unfurnished,Bachelors/Family,1,3000.0
+2,2240,15,Super Area,Giza,Unfurnished,Bachelors,5,26342.55
+2,982,11,Built Area,Alexandria,Unfurnished,Family,1,3000.0
+4,2605,6,Super Area,Giza,Unfurnished,Bachelors/Family,4,24473.02
+1,418,3,Carpet Area,Cairo,Unfurnished,Bachelors,4,3000.0
+5,454,0,Super Area,Giza,Semi-Furnished,Bachelors/Family,1,3000.0
+2,2150,5,Super Area,Sheikh Zayed,Semi-Furnished,Bachelors,3,8924.85
+2,1120,10,Super Area,Sheikh Zayed,Semi-Furnished,Bachelors/Family,5,19252.33
+1,3492,5,Super Area,Giza,Semi-Furnished,Family,1,9595.34
+2,3208,5,Super Area,Giza,Furnished,Bachelors/Family,3,9999.29
+2,1963,1,Super Area,Sheikh Zayed,Semi-Furnished,Bachelors,1,3000.0
+4,3466,0,Carpet Area,Giza,Furnished,Bachelors,2,8131.09
+3,3255,2,Carpet Area,New Cairo,Furnished,Bachelors,4,10386.75
+1,3170,11,Built Area,Sheikh Zayed,Furnished,Family,2,12501.34
+1,2732,13,Super Area,Alexandria,Unfurnished,Bachelors,2,11823.92
+1,1955,1,Built Area,Sheikh Zayed,Furnished,Bachelors,5,3000.0
+4,2958,5,Carpet Area,Cairo,Furnished,Family,3,13761.57
+4,3469,12,Carpet Area,New Cairo,Furnished,Bachelors,4,26551.68
+5,1819,11,Super Area,Alexandria,Unfurnished,Bachelors,2,24244.03
+4,2567,5,Super Area,Giza,Semi-Furnished,Family,4,23011.02
+1,2544,12,Built Area,Cairo,Semi-Furnished,Bachelors/Family,3,7421.31
+5,2567,4,Carpet Area,Cairo,Furnished,Bachelors,1,11158.36
+3,1960,9,Built Area,New Cairo,Furnished,Bachelors/Family,2,10737.73
+2,1576,9,Built Area,Alexandria,Semi-Furnished,Family,3,8546.35
+2,1668,4,Built Area,Cairo,Semi-Furnished,Bachelors,4,3000.0
+5,2195,8,Super Area,Alexandria,Semi-Furnished,Bachelors,3,16955.07
+3,2840,13,Carpet Area,Alexandria,Semi-Furnished,Family,1,18612.97
+2,1566,4,Built Area,Cairo,Furnished,Bachelors,3,3000.0
+5,3241,12,Carpet Area,Alexandria,Furnished,Bachelors/Family,4,26580.69
+4,2270,9,Carpet Area,New Cairo,Furnished,Bachelors/Family,2,12398.64
+1,2667,5,Built Area,Cairo,Semi-Furnished,Family,2,3000.0
+3,3286,10,Built Area,New Cairo,Unfurnished,Bachelors,5,24312.84
+2,559,3,Super Area,New Cairo,Semi-Furnished,Bachelors,4,3000.0
+1,3058,9,Carpet Area,Alexandria,Semi-Furnished,Family,5,16338.58
+5,1038,13,Built Area,Alexandria,Unfurnished,Bachelors/Family,5,26849.49
+2,1455,13,Built Area,Cairo,Unfurnished,Bachelors/Family,1,4965.13
+1,3224,15,Carpet Area,Giza,Semi-Furnished,Family,4,26768.17
+4,733,14,Built Area,Cairo,Unfurnished,Bachelors,2,15782.16
+3,1291,0,Carpet Area,New Cairo,Unfurnished,Bachelors/Family,4,4081.39
+5,3387,3,Built Area,Alexandria,Unfurnished,Bachelors,1,12533.14
+2,2416,1,Carpet Area,New Cairo,Semi-Furnished,Bachelors/Family,4,8492.78
+4,751,9,Built Area,Sheikh Zayed,Semi-Furnished,Bachelors,4,17748.86
+3,1762,2,Built Area,Sheikh Zayed,Unfurnished,Bachelors/Family,5,12040.05
+3,1325,6,Super Area,New Cairo,Furnished,Bachelors,4,12061.32
+4,1823,6,Carpet Area,Giza,Unfurnished,Family,5,23180.3
+2,2843,0,Super Area,Giza,Unfurnished,Bachelors/Family,5,11509.82
+3,2977,7,Built Area,Cairo,Semi-Furnished,Family,3,12873.71
+5,2805,15,Carpet Area,Cairo,Furnished,Bachelors/Family,1,20045.4
+1,1819,6,Carpet Area,Cairo,Unfurnished,Bachelors/Family,5,9840.37
+5,3275,0,Built Area,Alexandria,Furnished,Bachelors/Family,4,11100.82
+3,459,7,Built Area,Giza,Semi-Furnished,Bachelors,5,3000.0
+1,2924,13,Built Area,New Cairo,Furnished,Bachelors/Family,5,16732.06
+4,3059,13,Built Area,Sheikh Zayed,Semi-Furnished,Family,5,36553.22
+1,400,1,Carpet Area,Giza,Unfurnished,Bachelors,2,3000.0
+1,1978,7,Super Area,Giza,Semi-Furnished,Bachelors,2,3000.0
+1,710,2,Carpet Area,Giza,Furnished,Bachelors/Family,2,3000.0
+3,2615,9,Carpet Area,Cairo,Furnished,Bachelors,2,3660.74
+2,2639,6,Carpet Area,Alexandria,Furnished,Bachelors/Family,3,3805.39
+3,1107,12,Carpet Area,New Cairo,Unfurnished,Family,5,26351.64
+2,1581,5,Built Area,Cairo,Furnished,Bachelors,3,3000.0
+4,2180,4,Super Area,Alexandria,Furnished,Bachelors,4,8202.94
+4,1923,14,Carpet Area,Giza,Furnished,Family,1,16929.08
+4,2813,15,Carpet Area,Alexandria,Semi-Furnished,Family,3,24659.54
+4,1763,10,Super Area,Cairo,Furnished,Bachelors/Family,2,13953.15
+4,1257,9,Built Area,Giza,Semi-Furnished,Bachelors,2,11499.03
+5,2774,13,Carpet Area,Cairo,Furnished,Family,4,35421.57
+3,2561,10,Built Area,New Cairo,Semi-Furnished,Bachelors,5,19555.53
+2,3244,1,Carpet Area,Giza,Semi-Furnished,Family,1,5266.57
+4,1318,1,Carpet Area,Alexandria,Unfurnished,Bachelors,3,3000.0
+5,1008,12,Super Area,Cairo,Unfurnished,Family,5,28170.0
+5,708,11,Super Area,Sheikh Zayed,Semi-Furnished,Bachelors,5,31233.77
+5,2848,14,Built Area,Alexandria,Semi-Furnished,Bachelors/Family,3,25080.07
+3,1743,0,Carpet Area,Alexandria,Unfurnished,Bachelors,3,3000.0
+4,611,13,Built Area,Giza,Semi-Furnished,Bachelors/Family,3,16597.8
+5,2764,8,Super Area,Alexandria,Unfurnished,Bachelors/Family,3,27695.64
+5,584,15,Super Area,Cairo,Unfurnished,Bachelors/Family,2,27182.62
+4,1628,10,Super Area,Sheikh Zayed,Furnished,Bachelors,5,24016.45
+3,1787,7,Super Area,New Cairo,Furnished,Bachelors,5,16217.7
+5,1639,7,Super Area,Sheikh Zayed,Unfurnished,Bachelors/Family,2,26084.69
+2,645,0,Built Area,Cairo,Unfurnished,Family,5,3000.0
+1,638,4,Built Area,Giza,Semi-Furnished,Bachelors,3,3000.0

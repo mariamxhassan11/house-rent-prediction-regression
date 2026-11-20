@@ -1,0 +1,73 @@
+{
+    "project_title": "House Rent Price Regression",
+    "task_type": "regression",
+    "target_column": "rent",
+    "best_model_name": "GradientBoostingRegressor",
+    "numeric_features": [
+        "bhk",
+        "size_sqft",
+        "floor_level",
+        "bathroom"
+    ],
+    "categorical_features": [
+        "area_type",
+        "city",
+        "furnishing_status",
+        "tenant_preferred"
+    ],
+    "feature_ranges": {
+        "bhk": {
+            "min": 1,
+            "max": 5,
+            "default": 3,
+            "dtype": "int"
+        },
+        "size_sqft": {
+            "min": 400,
+            "max": 3500,
+            "default": 1937,
+            "dtype": "int"
+        },
+        "floor_level": {
+            "min": 0,
+            "max": 15,
+            "default": 7,
+            "dtype": "int"
+        },
+        "bathroom": {
+            "min": 1,
+            "max": 5,
+            "default": 3,
+            "dtype": "int"
+        }
+    },
+    "categorical_options": {
+        "area_type": [
+            "Super Area",
+            "Carpet Area",
+            "Built Area"
+        ],
+        "city": [
+            "Cairo",
+            "Giza",
+            "Alexandria",
+            "New Cairo",
+            "Sheikh Zayed"
+        ],
+        "furnishing_status": [
+            "Furnished",
+            "Semi-Furnished",
+            "Unfurnished"
+        ],
+        "tenant_preferred": [
+            "Bachelors/Family",
+            "Bachelors",
+            "Family"
+        ]
+    },
+    "metrics": {
+        "r2": 0.8708,
+        "mae": 2450.2,
+        "rmse": 3171.36
+    }
+}
